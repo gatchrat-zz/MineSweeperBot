@@ -1,6 +1,6 @@
 ﻿namespace MineSweeperBot
 {
-    partial class Form1
+    partial class MineSweeperBot
     {
         /// <summary>
         /// Erforderliche Designervariable.
@@ -41,14 +41,14 @@
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
-            // Form1
+            // MineSweeperBot
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(194, 100);
             this.Controls.Add(this.button2);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "MineSweeperBot";
+            this.Text = "MineSweeperBot";
             this.ResumeLayout(false);
 
         }

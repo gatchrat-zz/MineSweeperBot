@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.Runtime.InteropServices;
 namespace MineSweeperBot
 {  
-    public partial class Form1 : Form
+    public partial class MineSweeperBot : Form
     {
 
         [DllImport("user32")]
@@ -40,7 +40,7 @@ namespace MineSweeperBot
         int[] field = new int[9 * 9];
 
 
-        public Form1()
+        public MineSweeperBot()
         {
             InitializeComponent();
         }
