@@ -1,0 +1,8 @@
+H:\Programmer\VisualStudioprojekts\MineSweeperBot\MineSweeperBot\bin\Debug\MineSweeperBot.exe
+H:\Programmer\VisualStudioprojekts\MineSweeperBot\MineSweeperBot\bin\Debug\MineSweeperBot.pdb
+H:\Programmer\VisualStudioprojekts\MineSweeperBot\MineSweeperBot\obj\Debug\MineSweeperBot.csprojResolveAssemblyReference.cache
+H:\Programmer\VisualStudioprojekts\MineSweeperBot\MineSweeperBot\obj\Debug\MineSweeperBot.Form1.resources
+H:\Programmer\VisualStudioprojekts\MineSweeperBot\MineSweeperBot\obj\Debug\MineSweeperBot.Properties.Resources.resources
+H:\Programmer\VisualStudioprojekts\MineSweeperBot\MineSweeperBot\obj\Debug\MineSweeperBot.csproj.GenerateResource.Cache
+H:\Programmer\VisualStudioprojekts\MineSweeperBot\MineSweeperBot\obj\Debug\MineSweeperBot.exe
+H:\Programmer\VisualStudioprojekts\MineSweeperBot\MineSweeperBot\obj\Debug\MineSweeperBot.pdb
